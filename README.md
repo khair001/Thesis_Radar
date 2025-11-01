@@ -19,4 +19,3 @@ A novel diagnostic metric called **Average Directional Variance (ADV)** is imple
 
 ---
 
-## 📂 Repository Contents
